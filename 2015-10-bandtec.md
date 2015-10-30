@@ -18,7 +18,7 @@ Pretendo neste LT abordar um pouco do funcionamento do Framework Scrapy (http://
 
 Nesta palestra pretendo apresentar como pode ser fácil explorar visão computacional com Python e OpenCV. Vamos focar no básico de aquisição de imagens de uma webcam, tracker objetos coloridos em um Streaming de vídeo, Face tracking, detecção de vértices e bordas, além de um projeto para criar um robô móvel que interprete informações visuais para sair de um labirinto.
 
-###[15 min] Tempos Modernos Com Fabric - Carlos Maniero
+###[15 min] [Tempos Modernos Com Fabric - Carlos Maniero](http://pt.slideshare.net/CarlosManiero/tempos-modernos-com-fabric)
 
 Se Charlie Chaplin conhecesse Fabric, a única revolução que aconteceria seria na sua produtividade. Ele não teria ficado louco, nem participado de uma revolução comunista. Nesse light talk, vou abordar como automatizar tarefas com Fabric. Você tem o esforço de apertar apenas um parafuso e faz com que "n" parafusos sejam apertados com um único comando.
 
